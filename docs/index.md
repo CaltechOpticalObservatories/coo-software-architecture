@@ -1,11 +1,10 @@
-# Your Project
+# ICS Architecture
 
-Short tagline or overview.
+Observatory instrument control software architecture.
 
 ```{toctree}
 :maxdepth: 2
-:hidden:
+:caption: Contents
 
-getting-started
-api/index
-
+ics_cmd_ctrl
+```
