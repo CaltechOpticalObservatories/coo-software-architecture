@@ -1,0 +1,7 @@
+sphinx
+myst-parser[linkify]
+shibuya
+sphinx-autodoc-typehints
+sphinx-copybutton
+sphinx-design
+sphinxcontrib-mermaid
