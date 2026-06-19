@@ -7,4 +7,5 @@ Observatory instrument control software architecture.
 :caption: Contents
 
 ics_cmd_ctrl
+message_envelope_and_payload_design
 ```
