@@ -1,6 +1,6 @@
-# ICS Architecture
+# Observatory Software Architecture
 
-Observatory instrument control software architecture.
+Architecture specifications for observatory instrument control and data reduction software.
 
 ```{toctree}
 :maxdepth: 2
@@ -8,4 +8,5 @@ Observatory instrument control software architecture.
 
 ics_cmd_ctrl
 message_envelope_and_payload_design
+drp_design_guidelines
 ```
